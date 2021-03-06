@@ -22,7 +22,7 @@ keyboard = [
  InlineKeyboardButton("Source Code", url=Config.SOURCE)
 ],
 [
- InlineKeyboardButton("How To Create A Bot Like Me",url="https://youtu.be/swg6un2N4Fk")
+ InlineKeyboardButton("Support Our Channel",url="https://t.me/mizolibrary")
 ]
 ]
 
