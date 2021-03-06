@@ -19,7 +19,7 @@ from config import Config
 #Inline Keyboard Button
 keyboard = [
 [
- InlineKeyboardButton("Source Code", url=Config.SOURCE)
+ InlineKeyboardButton("Donate", url=Config.DONATE)
 ],
 [
  InlineKeyboardButton("Support Our Channel",url="https://t.me/mizolibrary")
